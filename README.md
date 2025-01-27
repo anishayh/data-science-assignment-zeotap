@@ -76,3 +76,18 @@ Here’s a breakdown of the repository files:
 1. Clone the repository:
    ```bash
    git clone https://github.com/anishayh/data-science-assignment-zeotap.git
+
+cd data-science-assignment-zeotap
+
+pip install -r requirements.txt
+
+
+## Author
+**Anisha Raj**  
+- **GitHub**: [anishayh](https://github.com/anishayh)  
+- **Email**: your-email@example.com
+
+
+
+
+   
